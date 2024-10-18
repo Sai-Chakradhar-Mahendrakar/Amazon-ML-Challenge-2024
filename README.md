@@ -23,8 +23,8 @@ Each dataset has the following columns:
 
 Our model achieved the following results:
 
-- **F1 Score**: 0.523 (highest)
-- **Rank**: 93 out of 10000+ teams
+- **F1 Score**: 0.593 (highest)
+- **Rank**: 87 out of 10000+ teams
 
 ## Conclusion 
 This hackathon, spanning four days, was the longest we’ve participated in so far. We faced challenges, particularly with the computational resources needed to process such a large volume of data. Processing the test.csv file, which involved downloading over **32 GB** of images and running them through an OCR model, took us collectively more than **20 hours**. Despite these obstacles, it was an invaluable experience to work on a real-world problem faced by Amazon. 
